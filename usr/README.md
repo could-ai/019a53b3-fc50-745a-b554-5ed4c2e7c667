@@ -1,6 +1,6 @@
-# couldai_user_app
+# READORA
 
-A new Flutter project.
+A new Flutter project for READORA.
 
 ## Getting Started
 
